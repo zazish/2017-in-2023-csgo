@@ -9,6 +9,7 @@ Welcome to the read me, here i can address everything like issues and features, 
 3. The bomb beep's sometimes work. its 50/50 it works or doesnt work for the entire match
 4. On Advanced Video Settings, if you enable "Boost Player Contrast", on high far range (every range actually) the player models will just be simply in a black box. This issue is caused because in 2017 Boost Player Contrast wasn't available so making this as a video option and making it forcefully work, it results in this.
 5. This is related to the item previews on issue nr. 2: if you get skins after 2017-made, in-game they will just render as purely black (entire weapon skin color black) and in the thumbnail image preview in the inventory, it will also render in just black or wont render at all in the picture. This isnt actually an Engine Error or anything, its normal in every CS:GO/CS2 Version
+6. Inspecting ANY of the weapon skins in the main menu (inventory) the 3D Gun model wont appear, fix for it is gonna drop sometime.
 
 Now moving onto features:
 1: This has csgo_gc (big credits for mikkokko and the other collaborators that made it): csgo_gc is basically making a server that runs locally on your pc (i think), in which this causes in skins being able to work, getting the annoying "Connecting to CS:GO" blue top bar text out, etc. Sadly, since it runs locally on your pc, they will not make an update where they implement matchmaking because that needs a centralized server in order to work.
