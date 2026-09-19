@@ -12,4 +12,6 @@ Welcome to the read me, here i can address everything like issues and features, 
 
 Now moving onto features:
 1: This has csgo_gc (big credits for mikkokko and the other collaborators that made it): csgo_gc is basically making a server that runs locally on your pc (i think), in which this causes in skins being able to work, getting the annoying "Connecting to CS:GO" blue top bar text out, etc. Sadly, since it runs locally on your pc, they will not make an update where they implement matchmaking because that needs a centralized server in order to work.
+2: It has the panorama ui fully working and intact.
+3: Not only weapon skins work: Name Tags, Music kits etc. also work!
 
