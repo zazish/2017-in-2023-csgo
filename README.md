@@ -21,3 +21,7 @@ Now moving onto features:
 
 Now, moving on how to install it:
 1. Theres no installer or anything. This project is discontinued because of too many unresolvable bugs that could affect gameplay etc.
+
+
+
+I will be making another project like this soon, probably today while im typing this. To resolve panorama related issues etc, i will use a 2019/2018 panorama build. Title for the project will be the same as the one but instead of 2017 its 2018/2019 (2018/2019 in 2023 csgo)
