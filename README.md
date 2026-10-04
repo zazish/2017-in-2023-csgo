@@ -20,6 +20,4 @@ Now moving onto features:
 
 
 Now, moving on how to install it:
-1: First, download the .zip (obviously)
-2: Extract the zip
-3: Open the .txt file, there are the instructions on how to install it.
+1. Theres no installer or anything. This project is discontinued because of too many unresolvable bugs that could affect gameplay etc.
